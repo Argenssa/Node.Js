@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "m06_ins_test": "^1.0.2",
+    "nodemailer": "^6.9.8"
+  },
+  "name": "@sasia_sa/lab_05",
+  "version": "1.0.0",
+  "description": "labaa",
+  "main": "06-02.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "something"
+  },
+  "repository": {
+    "type": "git",
+    "url": "no"
+  },
+  "keywords": [
+    "popa"
+  ],
+  "author": "ya",
+  "license": "UNLICENSED"
+}
